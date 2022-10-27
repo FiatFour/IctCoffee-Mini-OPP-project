@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Fiat/Documents/Junior semeter 1/IctCoffee/app/src/main/res/layout/coffeelistlayout.xml" value="0.23007246376811594" />
+        <entry key="..\:/Users/Fiat/Documents/Junior semeter 1/IctCoffee/app/src/main/res/layout/coffeeliststyle.xml" value="0.23007246376811594" />
+        <entry key="..\:/Users/Fiat/Documents/Junior semeter 1/IctCoffee/app/src/main/res/layout/fragment_all_coffee_list.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
